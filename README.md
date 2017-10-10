@@ -1,8 +1,7 @@
 # Voice-Filters-IOS
 A Voice Filters app allows users to record a sound using the device's microphone and play the recorded sound back with six different sound filters.
 
-![](https://raw.githubusercontent.com/RebeccaCheng910/Voice-Filters-IOS/master/Assets.xcassets/screenshot1.png)
-![](https://raw.githubusercontent.com/RebeccaCheng910/Voice-Filters-IOS/master/Assets.xcassets/screenshot2.png)
+![](https://raw.githubusercontent.com/RebeccaCheng910/Voice-Filters-IOS/master/Assets.xcassets/screenshot.png)
 
 ## Keywords
 ```
